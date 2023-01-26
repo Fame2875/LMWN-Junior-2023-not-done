@@ -1,0 +1,17 @@
+.circle {
+
+    min-width : 50px;
+    height: 50px;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .open {
+    background-color: limegreen;
+  }
+  
+  .closed {
+    background-color: red;
+  }
